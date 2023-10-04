@@ -27,7 +27,7 @@ Tani klonoje në pajisjen tënde repozitorin që bëre fork. Shko te llogaria e 
 Hap terminalin dhe bëje run git komandën në vazhdim:
 
 ```
-git clone "url që sapo ke kopjuar"
+git clone "url sapo ke kopjuar"
 ```
 
 ku "url që sapo ke kopjuar" (pa thonjëzat) është url e këtij repozitori (repozitori që bëre fork). Shiko hapat e mëparshëm për të marrë url-në.
